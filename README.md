@@ -1,2 +1,2 @@
-# GregoryEAllen.github.io
-Greg Allen's Home Page
+# Greg Allen's Home Page
+Hosted at GregoryEAllen.github.io
