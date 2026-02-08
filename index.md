@@ -13,4 +13,6 @@ Our laboratory is located in north Austin on UT's
 [Pickle Research Campus](https://www.utexas.edu/research/off-campus-research-sites) (PRC).
 I have previously been a member of the Special Warfare Division (SWD) and the Sonar Development Division (SDD), also in ATL. I first came to ARL in 1986 as a member of the High School Apprentice Program.
 
+My [academic publications are presentations](pubs/) are listed.
+
 Here is my [classic Home Page](classic/), originally created in [Claris Home Page](https://en.wikipedia.org/wiki/Claris_Home_Page) and later maintained in hand-written html.
