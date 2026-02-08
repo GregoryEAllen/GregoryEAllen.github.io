@@ -37,3 +37,55 @@ permalink: /pubs/
 - February 18, 1999, ["Process Networks and Real-Time Sonar Beamforming"](../classic/EE382C-S99/), Guest Lecture for [EE382C Embedded Software Systems](https://users.ece.utexas.edu/~bevans/courses/ee382c/), [Dept. of ECE](https://www.ece.utexas.edu), [Univ. of Texas at Austin](https://www.utexas.edu), Austin, TX.
 - October 21, 1998, ["An Overview of Sonar Beamforming Algorithms and Implementations"](), Guest Lecture for [EE381K Multidimensional Digital Signal Processing](https://users.ece.utexas.edu/~bevans/courses/ee381k/) and Telecommunications and Signal Processing Seminar, [Dept. of ECE](https://www.ece.utexas.edu), [Univ. of Texas at Austin](https://www.utexas.edu), Austin, TX.
 - February 24, 1998, ["Process Networks and Real-Time Sonar Beamforming"](http://127.0.0.1:4000/classic/EE382C-S98/), Guest Lecture for [EE382C Embedded Software Systems](https://users.ece.utexas.edu/~bevans/courses/ee382c/), [Dept. of ECE](https://www.ece.utexas.edu), [Univ. of Texas at Austin](https://www.utexas.edu), Austin, TX.
+
+# Graduate Coursework
+
+| number     | prof      | title                                           | semester   |
+|:-----------|:----------|:------------------------------------------------|:-----------|
+| EE 380L.6  | Lipovski  | Interfacing to Operating Systems                | F 93       |
+| EE 382N.10 | Chase     | Parallel Computer Architecture                  | Sp 94      |
+| EE 381K.3  | Smith     | Digital Filtering and Data Smoothing            | F 94       |
+| EE 381K.8  | Bovik     | Digital Signal Processing                       | Sp 95      |
+| EE 380L.5  | Chase     | Engineering Programming Languages               | F 95       |
+| EE 380L    | Ghosh     | Neural Networks for Pattern Recognition         | Sp 96      |
+| EE 382M.1  | Abraham   | Fault Tolerant Computing I                      | F 96       |
+| EE 382C    | Evans     | Embedded Software Systems                       | Sp 97      |
+| EE 397K.1  | Evans     | Real-time sonar beamforming on a workstation... | F 97       |
+| CS 395T    | Mok       | Real-time Systems                               | Sp 98      |
+| EE w398R   | Evans     | Master's Report                                 | Sum 98     |
+| EE 382M    | John      | Comp Perf Eval and Benchmarking                 | F 98       |
+| EE 397K.1  | Evans     | Real-time sonar beamforming on a workstation... | F 98       |
+| CS 392C    | Browne    | Meth and Tech for Parallel Programming          | Sp 99      |
+| CS 388G    | Wong      | Algorithms: Technique and Theory                | F 99       |
+| EE 399R    | Evans     | Dissertation                                    | F 99       |
+| M 365C     | Bichteler | Real Analysis                                   | Sp 00      |
+| EE 399W    | Evans     | Dissertation                                    | Sp 00      |
+| EE 399W    | Evans     | Dissertation                                    | F 00       |
+| EE 380N    | Baldick   | Optimization in Engineering Systems             | Sp 01      |
+| EE 399W    | Evans     | Dissertation                                    | Sp 01 - G  |
+
+# Coursework by Area
+
+| number     | title                                           | area                                   |
+|:-----------|:------------------------------------------------|:---------------------------------------|
+| EE 380L.6  | Interfacing to Operating Systems                | Comp Eng Area I. Software              |
+| EE 380L.5  | Engineering Programming Languages               | Comp Eng Area I. Software              |
+| EE 382N.10 | Parallel Computer Architecture                  | Comp Eng Area II. Systems and Networks |
+| EE 382M    | Comp Perf Eval and Benchmarking                 | Comp Eng Area II. Systems and Networks |
+| EE 380L    | Neural Networks for Pattern Recognition         | Comp Eng Area III. Applications        |
+| EE 382C    | Embedded Software Systems                       | Comp Eng Area III. Applications        |
+| EE 382M.1  | Fault Tolerant Computing I                      | Comp Eng Area IV. Design and Theory    |
+| EE 399W    | Dissertation                                    | Other Major Work                       |
+| EE 399W    | Dissertation                                    | Other Major Work                       |
+| EE 399R    | Dissertation                                    | Other Major Work                       |
+| EE 397K.1  | Real-time sonar beamforming on a workstation... | Other Major Work                       |
+| EE w398R   | Master's Report                                 | Other Major Work                       |
+| EE 397K.1  | Real-time sonar beamforming on a workstation... | Other Major Work                       |
+| EE 399W    | Dissertation                                    | Other Major Work                       |
+| CS 395T    | Real-time Systems                               | Supporting work: Outside ECE           |
+| CS 392C    | Meth and Tech for Parallel Programming          | Supporting work: Outside ECE           |
+| CS 388G    | Algorithms: Technique and Theory                | Supporting work: Outside ECE           |
+| M 365C     | Real Analysis                                   | Supporting work: Outside ECE           |
+| EE 381K.8  | Digital Signal Processing                       | Supporting work: TISE                  |
+| EE 381K.3  | Digital Filtering and Data Smoothing            | Supporting work: TISE                  |
+| EE 380N    | Optimization in Engineering Systems             | Supporting work: TISE                  |
